@@ -22,6 +22,7 @@ A clear and concise description of what you expected to happen.
 
 **Regression**
 State whether this is a regression and when the last successful instance occurred
+
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
