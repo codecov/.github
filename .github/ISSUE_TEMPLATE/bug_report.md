@@ -26,7 +26,10 @@ State whether this is a regression and when the last successful instance occurre
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Versions (please complete the following information):**
+**Product Area**
+If applicable, the product with the given bug (e.g. coverage, test analytics, browser extension, bundle analysis)
+
+**Versions**
  - OS: [e.g. linux, ubuntu@v24, macos arm64, windows]
  - Git Host: [e.g. GitHub, GitLab, Bitbucket]
  - CI/CD: [e.g. GitHub Actions, CircleCI]
