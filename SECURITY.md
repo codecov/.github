@@ -29,3 +29,8 @@ We may revise these guidelines from time to time. The most current version of th
 ## Contact
 
 Codecov is always open to feedback, questions, and suggestions. If you would like to talk to us, please feel free to email us at security@codecov.io, and our PGP key is at https://codecov.io/.well-known/security.txt.
+
+## Example and Sample Code
+
+> [!WARNING]  
+> Unless otherwise specified, example and sample code in our repos is unmaintained. Sample code may contain security vulnerabilities, should never be used in production, and exists only for illustrative purposes.
